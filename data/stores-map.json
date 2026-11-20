@@ -1,0 +1,35 @@
+{
+  "_info": "Termék (a weboldal 'name' mezője) -> források. cashmap: cashmap.hu termékazonosítók (a /termekek/<ID>/ URL-ből), kifli: kifli.hu termékazonosítók. Több azonosító = több kiszerelés, a boltok összeadódnak.",
+  "seeds": [
+    "https://cashmap.hu/termekek/66973/pilos-gorog-natur-kremjoghurt-zsirtartalom-10-poharas-400-g"
+  ],
+  "products": {
+    "Tesco Greek Style Natúr joghurt": {"cashmap": [407355]},
+    "Spar & S-Budget Görög stílusú natúr joghurt": {"cashmap": [50290, 47307]},
+    "Actimel": {"kifli": [10651]},
+    "Danone Oikos görög": {"kifli": [10729]},
+    "Activia": {"kifli": [10684]},
+    "Mizo Immuno Plusz gyümölcsjoghurt": {"kifli": [98226]},
+    "Pilos Krémes görög joghurt 10%": {"cashmap": [66973]},
+    "Tarka Görög Joghurt Natúr 10%": {"cashmap": [439395], "kifli": [110151]},
+    "Tarka Natúr görög krémjoghurt": {"kifli": [75933]},
+    "Magic Milk Laktózmentes natúr görög krémjoghurt": {"cashmap": [33687], "kifli": [16531]},
+    "Nádudvari Görögjoghurt 10%": {"cashmap": [522449], "kifli": [124271]},
+    "Danone Görög stílusú natúr joghurt": {"cashmap": [450376, 506417], "kifli": [109343, 122391, 124597]},
+    "Real Nature Görög stílusú natúr joghurt": {"cashmap": [44898], "kifli": [41117, 93175]},
+    "Real Nature Proxy laktózmentes görög stílusú joghurt": {"cashmap": [44904], "kifli": [41135]},
+    "Real Nature Proxy görög stílusú joghurt 2%": {"cashmap": [64733], "kifli": [79050]},
+    "Real Nature Proxy görög stílusú joghurt nádcukorral": {"cashmap": [44903, 380135], "kifli": [79045]},
+    "Pure Milk natúr görög joghurt": {"cashmap": [418473]},
+    "Creamfields Greek Style natúr joghurt 2%": {"cashmap": [407354]},
+    "Jásztej Élőflórás Natúr joghurt": {"kifli": [94549]},
+    "Tarka Natúr joghurt": {"kifli": [75928]},
+    "Csepnyi Birtok Natúr joghurt": {"kifli": [91617]},
+    "Maszlik Élőflórás Natúr joghurt": {"kifli": [85963]},
+    "Cserpes Élőflórás Natúr joghurt": {"kifli": [100963]},
+    "Zöld Farm Bio Natúr joghurt": {"kifli": [16564]},
+    "Milskír Natúr joghurt": {"kifli": [98844]},
+    "Andechser Bio zsírszegény görög típusú joghurt": {"kifli": [100250]},
+    "Andechser Bio Skyr": {"kifli": [55313]}
+  }
+}

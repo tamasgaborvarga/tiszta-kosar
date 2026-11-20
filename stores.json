@@ -1,0 +1,441 @@
+{
+ "updated": "2026-11-19",
+ "products": {
+  "Tesco Greek Style Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Spar & S-Budget Görög stílusú natúr joghurt": {
+   "stores": [
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Actimel": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Danone Oikos görög": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Activia": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Mizo Immuno Plusz gyümölcsjoghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "unavailable",
+     "checked": "2026-11-19",
+     "source": "kifli"
+    }
+   ]
+  },
+  "Pilos Krémes görög joghurt 10%": {
+   "stores": [
+    {
+     "store": "Lidl",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Tarka Görög Joghurt Natúr 10%": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Penny",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Tarka Natúr görög krémjoghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Magic Milk Laktózmentes natúr görög krémjoghurt": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Nádudvari Görögjoghurt 10%": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Danone Görög stílusú natúr joghurt": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Real Nature Görög stílusú natúr joghurt": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Lidl",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Real Nature Proxy laktózmentes görög stílusú joghurt": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Real Nature Proxy görög stílusú joghurt 2%": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Real Nature Proxy görög stílusú joghurt nádcukorral": {
+   "stores": [
+    {
+     "store": "Auchan",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Spar",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    },
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Pure Milk natúr görög joghurt": {
+   "stores": [
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Creamfields Greek Style natúr joghurt 2%": {
+   "stores": [
+    {
+     "store": "Tesco",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "cashmap",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Jásztej Élőflórás Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Tarka Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Csepnyi Birtok Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Maszlik Élőflórás Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Cserpes Élőflórás Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Zöld Farm Bio Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Milskír Natúr joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Andechser Bio zsírszegény görög típusú joghurt": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  },
+  "Andechser Bio Skyr": {
+   "stores": [
+    {
+     "store": "Kifli",
+     "status": "active",
+     "checked": "2026-11-19",
+     "source": "kifli",
+     "lastSeen": "2026-11-19"
+    }
+   ]
+  }
+ }
+}
